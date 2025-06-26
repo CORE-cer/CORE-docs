@@ -6,7 +6,7 @@
 
 ## CORE research literature
 
-You can find more information of **CORE** insides in the following articles:
+You can find more information of **CORE** in the following articles:
 
 - CORE: a COmplex event Recognition Engine. Presented at VLDB 2022.
 Marco Bucchi, Alejandro Grez, Andrés Quintana, Cristian Riveros, and Stijn Vansummeren.
